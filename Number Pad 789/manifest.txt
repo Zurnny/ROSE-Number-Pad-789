@@ -1,4 +1,4 @@
 ; Update list for Number Pad 789. Upload this next to mod.ini and the files folder.
-version=1.4
-1dcc7b316626eb0948f0686919eb1aabd92a4501|mod.ini
+version=1.5
+236c26be0f426821c2f7e934b52f7b6c952fe946|mod.ini
 ed4e6b1075aa4208de7a999078a498a682cbf3c8|files/Data/ui/themes/rose/game/number_input.html
